@@ -19,9 +19,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/tusharrpal/DSA-LEARNING/tree/master/0011-container-with-most-water) |
 | [0073-set-matrix-zeroes](https://github.com/tusharrpal/DSA-LEARNING/tree/master/0073-set-matrix-zeroes) |
 ## Matrix
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/tusharrpal/DSA-LEARNING/tree/master/0073-set-matrix-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/tusharrpal/DSA-LEARNING/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/tusharrpal/DSA-LEARNING/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
