@@ -43,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/tusharrpal/DSA-LEARNING/tree/master/0066-plus-one) |
+## Database
+|  |
+| ------- |
+| [1068-product-sales-analysis-i](https://github.com/tusharrpal/DSA-LEARNING/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
